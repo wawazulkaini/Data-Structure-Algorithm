@@ -7,3 +7,4 @@ NUR ADWA NAYLI BINTI ZULKAINI
 | --------- | ------ | -------------------------------- |
 | 28/5/2025 | 1      | - Array                          |
 | 04/6/2025 | 2      | - Easy <br> - Medium <br> - Hard |
+| /6/2025 | 3      | - Singly Linked List <br> - Doubly Linked List|
